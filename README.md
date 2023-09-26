@@ -1,4 +1,4 @@
-# Medieval-Prosperity-
+# Medieval-Prosperity v-0.1.5
 1. Download Python
 2. Open CMD Without Admin
 3. In the CMD Command Line write " python Game.py "
