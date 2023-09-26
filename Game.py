@@ -218,7 +218,7 @@ while True:
     elif choice == "quest":
         # Generate a random quest
         quest_name = f"Quest {len(quests) + 1}"
-        quest_description = f"Help a neigboting village with {random.choice(['bandit problem', 'crop harvest', 'escorting a villager'])}."
+        quest_description = f"Help a neighboring village with {random.choice(['bandit problem', 'crop harvest', 'escorting a villager'])}."
         quest_reward = random.randint(1, 10)
         quests.append({"name": quest_name, "description": quest_description, "reward": quest_reward})
         print(f"You accepted a new quest: {quest_name} - {quest_description}")
