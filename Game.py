@@ -183,7 +183,7 @@ while True:
     days += 1
     
     # Player input
-    choice = input("\nWhat would you like to do? (collect/assign/build/quest/export/import/interact_merchant/exit): ").lower()
+    choice = input("\nWhat would you like to do? (collect/assign/build/quest/export/import/interact/interact_merchant/exit): ").lower()
 
     if choice == "collect":
         # Collect resources
