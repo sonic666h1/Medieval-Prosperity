@@ -1,5 +1,5 @@
 # Medieval-Prosperity v-0.7.5 [BETA]
-1. Download Python
+1. Download Python From Microsoft Store
 2. Open CMD Without Admin
 3. In the CMD Command Line write " python Game.py "
 4. You can save your game by doing " export "
