@@ -50,7 +50,7 @@ merchant_quests = [
     {"name": "Escort the Merchant's Caravan", "reward": 50},
     {"name": "Retrieve Stolen Goods", "reward": 75},
     {"name": "Help a Villager", "reward": 12}
-    # Add more quests as desired
+    
 ]
 
 # Events
@@ -70,7 +70,7 @@ def random_event():
             print("Harsh weather conditions have damaged our wood reserves.")
         else:
             print("Harsh weather conditions have damaged our wood reserves, but you don't have enough wood.")
-    # Add more event types as desired
+    
 
 # Function to calculate daily resource production
 def calculate_production():
