@@ -1,4 +1,4 @@
-# Medieval-Prosperity v-0.7.5 [BETA]
+# Medieval-Prosperity v-1.7.5 [BETA]
 1. Download Python From Microsoft Store
 
 2. You can save your game by doing " export "
