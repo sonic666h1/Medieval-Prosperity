@@ -9,4 +9,9 @@
 
 Update.
 Converted the old .py file into an .exe :D
- 
+
+
+## Discord
+Join My Discord Server! 
+All my projects will be made in there
+https://discord.gg/79qnfREBYK
